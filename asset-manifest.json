@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://luisanthony196.github.io/giftsearch-react/static/css/main.f911871e.css",
-    "main.js": "https://luisanthony196.github.io/giftsearch-react/static/js/main.ab99674c.js",
+    "main.js": "https://luisanthony196.github.io/giftsearch-react/static/js/main.821ab587.js",
     "index.html": "https://luisanthony196.github.io/giftsearch-react/index.html",
     "main.f911871e.css.map": "https://luisanthony196.github.io/giftsearch-react/static/css/main.f911871e.css.map",
-    "main.ab99674c.js.map": "https://luisanthony196.github.io/giftsearch-react/static/js/main.ab99674c.js.map"
+    "main.821ab587.js.map": "https://luisanthony196.github.io/giftsearch-react/static/js/main.821ab587.js.map"
   },
   "entrypoints": [
     "static/css/main.f911871e.css",
-    "static/js/main.ab99674c.js"
+    "static/js/main.821ab587.js"
   ]
 }
