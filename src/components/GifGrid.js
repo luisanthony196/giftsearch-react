@@ -14,7 +14,7 @@ const GifGrid = ({category}) => {
 
   return (
     <Fragment>
-    <h3 className>{category}</h3>
+    <h3 className='category'>{category}</h3>
     {loading && <p>Loading</p>}
     <div className='card-grid'>
       {images.map(img =>
