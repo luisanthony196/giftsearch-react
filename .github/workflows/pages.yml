@@ -9,6 +9,7 @@ env:
 jobs:
   build-and-deploy:
     concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
+    environment: github-pages
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
