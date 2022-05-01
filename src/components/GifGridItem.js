@@ -4,7 +4,7 @@ const GifGridItem = ({title, url}) => {
 
   return (
     <div className="card animate__animated animate__fadeIn" data-testid="card">
-      <img src={url} alt="title"/>
+      <img src={url + 'heart'} alt="title"/>
       <p>{title}</p>
     </div>
   )
